@@ -9,13 +9,16 @@ const allRoutes = require('./router/index')
 const PORT = process.env.PORT || 3000
 
 // DB connction
-mongoose.connect('mongodb://localhost:27017/curriculum_app', {
+mongoose
+  .connect("mongodb://localhost:27017/curriculum_app", {
+    useNewUrlParser: true,
+    useCreateIndex: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
-    useNewUrlParser: true
-}).then(() => {
-    console.log('MongoDb connected...')
-})
+  })
+  .then(() => {
+    console.log("MongoDb connected...");
+  });
 
 
 // middleware
