@@ -1,0 +1,17 @@
+GET http://localhost:3000/api
+
+###
+GET http://localhost:3000/api/curricula
+
+###
+GET http://localhost:3000/api/curricula/2345
+
+###
+POST http://localhost:3000/api/curricula
+
+###
+PUT http://localhost:3000/api/curricula/2345
+
+###
+DELETE http://localhost:3000/api/curricula/2345
+

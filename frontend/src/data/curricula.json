@@ -1,0 +1,192 @@
+[{
+    "id": "1",
+    "Name": "Vue JS 3",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [
+        {   "name": "Rank",
+            "projects": [{"title": "First project", "description": "Forst project description"},
+                {"title": "Second project", "description": "Second project description"}
+            ],
+            "resources": [{"resource": "Vue documentation", "url": "www.vuejs.org"},
+                {"resource": "Front end UI", "url": "www.vuetifyjs.com"}
+            ]
+            
+        },
+        {   "name": "File",
+            "projects": [{"title": "First project", "description": "Forst project description"},
+                {"title": "Second project", "description": "Second project description"}
+            ],
+            "resources": [{"resource": "Vue documentation", "url": "www.vuejs.org"},
+                {"resource": "Front end UI", "url": "www.vuetifyjs.com"}
+            ]
+            
+        },
+        {   "name": "Column",
+            "projects": [{"title": "First project", "description": "Forst project description"},
+                {"title": "Second project", "description": "Second project description"}
+            ],
+            "resources": [{"resource": "Vue documentation", "url": "www.vuejs.org"},
+                {"resource": "Front end UI", "url": "www.vuetifyjs.com"}
+            ]
+            
+        }
+    ]
+},
+{
+    "id": "2",
+    "Name": "Node Js",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [
+        { "name": "Morgana"},
+        { "projects": [{ "name": "First Project here" }, { "prop2": "Prop 2 content goes here" }] },
+        { "resources": [{ "url": "www.google.com/vue+3" }, { "url": "www.myplace.co.ke" }]}
+    ]
+},
+{
+    "id": "3",
+    "Name": "Express",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [
+        { "name": "Reprive" },
+        { "projects": [{ "name": "First Project here" }, { "prop2": "Prop 2 content goes here" }] },
+        {"resources": [{ "url": "www.google.com/vue+3" }, { "url": "www.myplace.co.ke" }]}
+    ]
+},
+{
+    "id": "4",
+    "Name": "ASP.NET",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [
+        { "name": "Skanging" },
+        { "projects": [{ "name": "First Project here" }, { "prop2": "Prop 2 content goes here" }]},
+        { "resources": [{ "url": "www.google.com/vue+3" }, { "url": "www.myplace.co.ke" }]}
+    ]
+},
+{
+    "id": "5",
+    "Name": "C++",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [{
+            "name": "Rank"
+        },
+        {
+            "projects": [{
+                "name": "First Project here"
+            }, {
+                "prop2": "Prop 2 content goes here"
+            }]
+        },
+        {
+            "resources": [{
+                "url": "www.google.com/vue+3"
+            }, {
+                "url": "www.myplace.co.ke"
+            }]
+        }
+    ]
+},
+{
+    "id": "6",
+    "Name": "Python",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [{ "name": "Rank" },
+        { "projects": [{ "name": "First Project here" }, { "prop2": "Prop 2 content goes here" }]
+        },
+        { "resources": [{ "url": "www.google.com/vue+3" }, { "url": "www.myplace.co.ke" }]
+        }
+    ]
+},
+{
+    "id": "7",
+    "Name": "Bootstrap",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [{ "name": "Rank" },
+        { "projects": [{ "name": "First Project here"
+            }, {
+                "prop2": "Prop 2 content goes here"
+            }]
+        },
+        { "resources": [{ "url": "www.google.com/vue+3" }, { "url": "www.myplace.co.ke" }]
+        }
+    ]
+},
+{
+    "id": "Make money",
+    "Name": "Vue JS 3",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [{
+            "name": "Rank"
+        },
+        {
+            "projects": [{
+                "name": "First Project here"
+            }, {
+                "prop2": "Prop 2 content goes here"
+            }]
+        },
+        {
+            "resources": [{
+                "url": "www.google.com/vue+3"
+            }, {
+                "url": "www.myplace.co.ke"
+            }]
+        }
+    ]
+},
+{
+    "id": "9",
+    "Name": "Lorem Ipsum",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [{
+            "name": "Rank"
+        },
+        {
+            "projects": [{
+                "name": "First Project here"
+            }, {
+                "prop2": "Prop 2 content goes here"
+            }]
+        },
+        {
+            "resources": [{
+                "url": "www.google.com/vue+3"
+            }, {
+                "url": "www.myplace.co.ke"
+            }]
+        }
+    ]
+},
+{
+    "id": "10",
+    "Name": "Fortran",
+    "Goal": "Achive in two weeks",
+    "Description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "sections": [{
+            "name": "Rank"
+        },
+        {
+            "projects": [{
+                "name": "First Project here"
+            }, {
+                "prop2": "Prop 2 content goes here"
+            }]
+        },
+        {
+            "resources": [{
+                "url": "www.google.com/vue+3"
+            }, {
+                "url": "www.myplace.co.ke"
+            }]
+        }
+    ]
+}
+]
